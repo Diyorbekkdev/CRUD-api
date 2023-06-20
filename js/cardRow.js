@@ -106,10 +106,7 @@ function getTeachersData(filterValue) {
 }
 
 getTeachersData(filterValue);
-function getPage(p) {
-    page = p;
-    getTeachersData();
-}
+
   
   getTeachersData();
 
@@ -240,5 +237,7 @@ function pagination() {
 
 const loading = document.getElementById("loading");
 window.addEventListener("load", () => {
-  loading.classList.add("loading-none");
+  setTimeout(() => {
+    loading.classList.add("loading-none");
+  }, 8000);
 });

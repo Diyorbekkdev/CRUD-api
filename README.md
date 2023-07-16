@@ -29,8 +29,8 @@ This repository contains the code for a CRUD (Create, Read, Update, Delete) webs
 
 To run the CRUD website locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/crud-website.git`
-2. Navigate to the project directory: `cd crud-website`
+1. Clone this repository: `git clone(https://github.com/Diyorbekkdev/API-exam-material.git)`
+2. Navigate to the project directory: `API-exam-material`
 3. Open `index.html` in your preferred web browser.
 
 ## Contributing
